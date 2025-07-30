@@ -40,4 +40,7 @@ A full-stack web application that promotes mental wellness by offering 24x7 emot
 
 ---
 
+## 📸 Live Preview 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ce7a239-9555-4760-96af-ba74a312847e" />
 
